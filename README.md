@@ -10,6 +10,7 @@
 > A Streamlit-powered AI application that helps students balance academic performance with mental wellness through personalized insights and predictive analytics.
 
 🔗 **Live Demo:** [https://ai-student-wellness-assistant.streamlit.app/](https://ai-student-wellness-assistant.streamlit.app/)
+
 📂 **GitHub Repo:** [https://github.com/DilaknaH/ai-student-wellness-assistant](https://github.com/DilaknaH/ai-student-wellness-assistant)
 
 ---
@@ -20,11 +21,11 @@ The **AI Focus & Mental Wellness Assistant** is an intelligent web application d
 
 Using machine learning, the app:
 
-✅ **Predicts academic performance** based on daily input metrics
-✅ **Analyzes stress & mood patterns** to detect burnout risks
-✅ **Delivers personalized feedback** with motivational quotes and study tips
-✅ **Visualizes habit trends** through interactive charts
-✅ **Tracks progress over time** with local data persistence
+**Predicts academic performance** based on daily input metrics
+**Analyzes stress & mood patterns** to detect burnout risks
+**Delivers personalized feedback** with motivational quotes and study tips
+**Visualizes habit trends** through interactive charts
+**Tracks progress over time** with local data persistence
 
 Built with **Streamlit**, **Scikit-learn**, and **Pandas**, this project demonstrates an **end-to-end ML pipeline** from data preprocessing to deployment.
 
