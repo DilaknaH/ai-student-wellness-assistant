@@ -95,10 +95,9 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 ## Author
 
-*Dilakna Godagamage*
+Dilakna Godagamage
+*Undergraduate:AI & ML enthusiast*
 
-AI & ML enthusiast
-[LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN/)
 
 
 
