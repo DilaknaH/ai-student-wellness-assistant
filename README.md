@@ -12,8 +12,8 @@
 The **AI Focus & Mental Wellness Assistant** is a **Streamlit-based AI application** that helps students improve their study habits, focus, and mental health.  
 It **predicts performance**, **analyzes stress and mood**, and provides **personalized advice** to maintain balance and improve productivity.
 
-**Live App:** [Click here to use](https://ai-student-wellness-assistant.streamlit.app/)
-https://ai-student-wellness-assistant.streamlit.app/
+**Live App:**  https://ai-student-wellness-assistant.streamlit.app/
+
 ---
 
 ## Features
