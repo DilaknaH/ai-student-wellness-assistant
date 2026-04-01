@@ -27,9 +27,8 @@ This project focuses on helping students overcome stress, burnout, and lack of f
 
 ---
 
-Built by Dilakna 🚀
+Built by Dilakna 
 
-```
 
 
 
