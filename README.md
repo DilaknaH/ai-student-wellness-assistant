@@ -1,6 +1,6 @@
 # 🧠 AI Focus & Mental Wellness Assistant
 
-[![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-3.14-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.24-orange?logo=streamlit&logoColor=white)](https://streamlit.io/)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 [![Deployment](https://img.shields.io/badge/Live-App-00c853?logo=streamlit&logoColor=white)](https://ai-student-wellness-assistant.streamlit.app/)
