@@ -1,101 +1,110 @@
 # 🧠 AI Focus & Mental Wellness Assistant
 
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)
+![Streamlit](https://img.shields.io/badge/Built%20with-Streamlit-ff4b4b.svg)
+![Scikit-learn](https://img.shields.io/badge/ML-Scikit--learn-orange.svg)
+![Pandas](https://img.shields.io/badge/Data-Pandas-150458.svg)
+![Status](https://img.shields.io/badge/Status-Live-success.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+
 > A Streamlit-powered AI application that helps students balance academic performance with mental wellness through personalized insights and predictive analytics.
 
-**Live Demo:** [ai-student-wellness-assistant.streamlit.app](https://ai-student-wellness-assistant.streamlit.app/)  
-**GitHub:** [DilaknaH/ai-student-wellness-assistant](https://github.com/DilaknaH/ai-student-wellness-assistant)
+🔗 **Live Demo:** [https://ai-student-wellness-assistant.streamlit.app/](https://ai-student-wellness-assistant.streamlit.app/)
+📂 **GitHub Repo:** [https://github.com/DilaknaH/ai-student-wellness-assistant](https://github.com/DilaknaH/ai-student-wellness-assistant)
 
 ---
 
 ## Project Overview
 
-The **AI Focus & Mental Wellness Assistant** is an intelligent web application designed to support students in managing their study habits, focus levels, and mental health. Using machine learning, the app:
+The **AI Focus & Mental Wellness Assistant** is an intelligent web application designed to support students in managing their study habits, focus levels, and mental health.
 
-✅ **Predicts academic performance** based on daily input metrics  
-✅ **Analyzes stress & mood patterns** to detect burnout risks  
-✅ **Delivers personalized feedback** with motivational quotes and study tips  
-✅ **Visualizes habit trends** through interactive charts  
+Using machine learning, the app:
+
+✅ **Predicts academic performance** based on daily input metrics
+✅ **Analyzes stress & mood patterns** to detect burnout risks
+✅ **Delivers personalized feedback** with motivational quotes and study tips
+✅ **Visualizes habit trends** through interactive charts
 ✅ **Tracks progress over time** with local data persistence
 
-Built with **Streamlit**, **Scikit-learn**, and **Pandas**, this project demonstrates end-to-end ML pipeline skills—from data preprocessing to deployment.
+Built with **Streamlit**, **Scikit-learn**, and **Pandas**, this project demonstrates an **end-to-end ML pipeline** from data preprocessing to deployment.
 
 ---
 
 ## Key Features
 
 ### AI-Powered Insights
-- Linear Regression model predicts performance score (0-100%) based on study hours, sleep, and focus levels
-- Rule-based wellness engine provides contextual feedback for stress, anxiety, or low focus
+
+* Linear Regression model predicts performance score (0–100%)
+* Rule-based wellness engine for stress, anxiety & focus analysis
 
 ### Modern UI/UX
-- Clean dark theme with custom CSS gradients and responsive layout
-- Sticky header navigation with clear visual hierarchy
-- Card-style feedback sections with color-coded alerts (success/warning/error)
-- Interactive sliders and intuitive mood selector
+
+* Dark theme with custom gradients
+* Clean layout with card-based feedback
+* Color-coded alerts (success / warning / error)
+* Interactive sliders & mood selector
 
 ### Data Visualization & Tracking
-- Real-time bar charts showing habit distribution
-- CSV-based local storage for progress tracking across sessions
-- Exportable user data for personal analysis
+
+* Real-time charts for habit insights
+* CSV-based local storage
+* Track progress across sessions
 
 ### Personalized Support
-- Rotating motivational quotes and study tips
-- Context-aware wellness messages based on user input
-- Encouraging feedback loop to promote healthy habits
+
+* Motivational quotes & study tips
+* Context-aware wellness suggestions
+* Positive feedback loop for habit building
 
 ---
 
 ## Tech Stack
 
-| Category | Technologies |
-|----------|-------------|
-| **Backend** | Python 3.x, Scikit-learn, Pandas |
-| **Frontend** | Streamlit, Custom CSS3, HTML5 |
-| **Data** | CSV storage, In-memory processing |
-| **DevOps** | Git, GitHub, Streamlit Cloud |
-| **ML** | Linear Regression, Feature Engineering, Model Training |
+| Category       | Technologies                 |
+| -------------- | ---------------------------- |
+| **Backend**    | Python, Scikit-learn, Pandas |
+| **Frontend**   | Streamlit, HTML5, CSS3       |
+| **Data**       | CSV Storage                  |
+| **Deployment** | Git, GitHub, Streamlit Cloud |
+| **ML**         | Linear Regression            |
 
 ---
 
 ## How to Run Locally
 
 ### Prerequisites
-- Python 3.8+
-- pip package manager
 
-### Step-by-Step Setup
+* Python 3.8+
+* pip
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/DilaknaH/ai-student-wellness-assistant.git
-   cd ai-student-wellness-assistant
-   ```
+### Setup
 
-2. **Create & activate virtual environment** *(recommended)*
-   ```bash
-   # macOS/Linux
-   python -m venv venv
-   source venv/bin/activate
-   
-   # Windows
-   python -m venv venv
-   venv\Scripts\activate
-   ```
+```bash
+git clone https://github.com/DilaknaH/ai-student-wellness-assistant.git
+cd ai-student-wellness-assistant
+```
 
-3. **Install dependencies**
-   ```bash
-   pip install -r requirements.txt
-   ```
+```bash
+# Create virtual environment
+python -m venv venv
 
-4. **Launch the application**
-   ```bash
-   streamlit run app_ui.py
-   ```
+# Activate
+# Windows
+venv\Scripts\activate
 
-5. **Open in browser**
-   ```
-   http://localhost:8501
-   ```
+# macOS/Linux
+source venv/bin/activate
+```
+
+```bash
+pip install -r requirements.txt
+```
+
+```bash
+streamlit run app_ui.py
+```
+
+🔗 Open: [http://localhost:8501](http://localhost:8501)
 
 ---
 
@@ -103,89 +112,71 @@ Built with **Streamlit**, **Scikit-learn**, and **Pandas**, this project demonst
 
 ```
 ai-student-wellness-assistant/
-├── app_ui.py           # Main Streamlit application (UI + logic)
-├── model.py            # ML model training & prediction functions
-├── data.csv            # Training dataset for model initialization
-├── user_data.csv       # Local storage for user session data (auto-generated)
-├── requirements.txt    # Python dependencies
-├── .gitignore          # Git ignore rules
-├── LICENSE             # MIT License
-└── README.md           # Project documentation
+├── app_ui.py
+├── model.py
+├── data.csv
+├── user_data.csv
+├── requirements.txt
+├── .gitignore
+├── LICENSE
+└── README.md
 ```
 
 ---
 
-## Why This Project Matters for AI Careers
+## Why This Project Stands Out
 
-This project demonstrates **practical, interview-ready skills**:
-
-🔹 **End-to-End ML Pipeline**: Data → Model → Prediction → UI → Deployment  
-🔹 **User-Centric Design**: Solves a real student pain point with empathy  
-🔹 **Clean Code Practices**: Modular structure, clear variable naming, comments  
-🔹 **Deployment Experience**: Live Streamlit Cloud deployment  
-🔹 **Problem-Solving**: Balances technical accuracy with wellness-focused UX  
+✔ End-to-End ML pipeline (Data → Model → UI → Deployment)
+✔ Real-world problem solving (student mental wellness)
+✔ Clean UI + strong UX thinking
+✔ Deployable + live product
+✔ Portfolio-ready for AI/ML roles
 
 ---
 
-##  Sample Output
+## 🔮 Future Enhancements
 
-![App Preview](https://via.placeholder.com/800x400/222831/DFD0B8?text=AI+Wellness+Assistant+Preview)
-
-*Features shown:*
-- Performance prediction metric
-- Color-coded feedback cards
-- Interactive habit visualization
-- Motivational wellness messages
-
----
-
-## Future Enhancements *(Roadmap)*
-
-- [ ] Add user authentication & cloud database (Firebase/Supabase)
-- [ ] Integrate NLP for journaling/mood analysis
-- [ ] Expand model to include more features (exercise, social time)
-- [ ] Add exportable weekly reports (PDF)
-- [ ] Implement A/B testing for advice effectiveness
-- [ ] Add mobile-responsive design improvements
+* [ ] User authentication (Firebase / Supabase)
+* [ ] NLP-based mood journaling
+* [ ] More features (exercise, social time)
+* [ ] PDF report generation
+* [ ] Mobile optimization
+* [ ] Smarter ML models
 
 ---
 
-## Contributing
+## 🤝 Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+1. Fork the repo
+2. Create branch (`feature/your-feature`)
+3. Commit changes
+4. Push
+5. Open PR
 
 ---
 
-## License
+## 📄 License
 
-Distributed under the **MIT License**. See `LICENSE` for more information.
-
----
-
-## Author
-
-**Dilakna Godagamage**  
-Undergraduate | AI & Machine Learning Enthusiast  
- 
-
-> *"Building AI that cares about people, not just predictions."*
+MIT License
 
 ---
 
-## Acknowledgments
+## 👩‍💻 Author
 
-- Streamlit community for excellent documentation
-- Scikit-learn for accessible ML tools
-- Mental health advocates inspiring wellness-focused tech
+**Dilakna Godagamage**
+AI & Machine Learning Enthusiast
+
+> *“Building AI that cares about people, not just predictions.”*
 
 ---
 
-> ⭐ **If you found this project helpful, please give it a star!** It helps others discover it too.
+## 🙌 Acknowledgments
 
+* Streamlit community
+* Scikit-learn
+* Mental health awareness initiatives
+
+---
+
+⭐ **If you found this useful, give it a star!**
 
