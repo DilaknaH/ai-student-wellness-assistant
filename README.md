@@ -7,16 +7,16 @@
 
 ---
 
-## 🚀 Project Overview
+## Project Overview
 
 The **AI Focus & Mental Wellness Assistant** is a **Streamlit-based AI application** that helps students improve their study habits, focus, and mental health.  
 It **predicts performance**, **analyzes stress and mood**, and provides **personalized advice** to maintain balance and improve productivity.
 
 **Live App:** [Click here to use](https://ai-student-wellness-assistant.streamlit.app/)
-
+https://ai-student-wellness-assistant.streamlit.app/
 ---
 
-## 🧩 Features
+## Features
 
 - Predicts student performance based on daily habits using **Linear Regression**
 - Analyzes stress and mood levels to provide **mental wellness support**
@@ -26,7 +26,7 @@ It **predicts performance**, **analyzes stress and mood**, and provides **person
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - Python 3.x  
 - Streamlit  
@@ -36,7 +36,7 @@ It **predicts performance**, **analyzes stress and mood**, and provides **person
 
 ---
 
-## 🎨 UI / UX
+## UI / UX
 
 - Modern **dark theme** using custom CSS  
 - Interactive sliders and mood selector  
@@ -46,7 +46,7 @@ It **predicts performance**, **analyzes stress and mood**, and provides **person
 
 ---
 
-## ▶️ How to Run Locally
+## How to Run Locally
 
 1. Clone the repo:
 
@@ -77,7 +77,7 @@ streamlit run app_ui.py
 
 ---
 
-## 📊 Sample Output
+## Sample Output
 
 * Predicted performance (percentage)
 * Personalized feedback for **low focus or high stress**
@@ -87,27 +87,20 @@ streamlit run app_ui.py
 
 ---
 
-## 📝 License
+## License
 
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
 
 ---
 
-## 🔥 Author
+## Author
 
-**Dilakna Godagamage**
+*Dilakna Godagamage*
 
-* AI & ML enthusiast
-* [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN/)
+AI & ML enthusiast
+[LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN/)
 
----
 
-## 💡 Badges / Quick Links
-
-* [Python](https://www.python.org/)
-* [Streamlit](https://streamlit.io/)
-* [GitHub Repo](https://github.com/YOUR_USERNAME/ai-student-wellness-assistant)
-* [Live App](https://ai-student-wellness-assistant.streamlit.app/)
 
 
 
