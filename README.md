@@ -135,7 +135,7 @@ ai-student-wellness-assistant/
 
 ---
 
-## 🔮 Future Enhancements
+## Future Enhancements
 
 * [ ] User authentication (Firebase / Supabase)
 * [ ] NLP-based mood journaling
@@ -146,7 +146,7 @@ ai-student-wellness-assistant/
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 1. Fork the repo
 2. Create branch (`feature/your-feature`)
@@ -156,13 +156,13 @@ ai-student-wellness-assistant/
 
 ---
 
-## 📄 License
+## License
 
 MIT License
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Dilakna Godagamage**
 AI & Machine Learning Enthusiast
@@ -171,7 +171,7 @@ AI & Machine Learning Enthusiast
 
 ---
 
-## 🙌 Acknowledgments
+## Acknowledgments
 
 * Streamlit community
 * Scikit-learn
