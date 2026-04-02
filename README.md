@@ -10,6 +10,7 @@
 > A Streamlit-powered AI application that helps students balance academic performance with mental wellness through personalized insights and predictive analytics.
 
 🔗 **Live Demo:** [https://ai-student-wellness-assistant.streamlit.app/](https://ai-student-wellness-assistant.streamlit.app/)
+( > If the app appears asleep or doesn’t load, please kindly reach out to me via LinkedIn (link in the author details below))
 
 📂 **GitHub Repo:** [https://github.com/DilaknaH/ai-student-wellness-assistant](https://github.com/DilaknaH/ai-student-wellness-assistant)
 
@@ -168,6 +169,7 @@ This project is licensed under the [MIT License](https://github.com/DilaknaH/ai-
 
 **Dilakna Godagamage**
 AI & Machine Learning Enthusiast
+Feel free to connect with me on Linkedin: [www.linkedin.com/in/dilakna-godagamage-53166326b](www.linkedin.com/in/dilakna-godagamage-53166326b)
 
 > *“Building AI that cares about people, not just predictions.”*
 
