@@ -170,9 +170,9 @@ This project is licensed under the [MIT License](https://github.com/DilaknaH/ai-
 
 **Dilakna Godagamage**
 
-AI & Machine Learning Enthusiast
+*AI & Machine Learning Enthusiast*
 
-Feel free to connect with me on Linkedin:(www.linkedin.com/in/dilakna-godagamage-53166326b)
+Feel free to connect with me on Linkedin:www.linkedin.com/in/dilakna-godagamage-53166326b
 
 > *“Building AI that cares about people, not just predictions.”*
 
