@@ -166,6 +166,14 @@ This project is licensed under the [MIT License](https://github.com/DilaknaH/ai-
 
 ---
 
+## Acknowledgments
+
+* Streamlit community
+* Scikit-learn
+* Mental health awareness initiatives
+
+---
+
 ## Author
 
 **Dilakna Godagamage**
@@ -175,14 +183,6 @@ This project is licensed under the [MIT License](https://github.com/DilaknaH/ai-
 Feel free to connect with me on Linkedin:www.linkedin.com/in/dilakna-godagamage-53166326b
 
 > *“Building AI that cares about people, not just predictions.”*
-
----
-
-## Acknowledgments
-
-* Streamlit community
-* Scikit-learn
-* Mental health awareness initiatives
 
 ---
 
