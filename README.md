@@ -13,6 +13,8 @@
 
 📂 **GitHub Repo:** [https://github.com/DilaknaH/ai-student-wellness-assistant](https://github.com/DilaknaH/ai-student-wellness-assistant)
 
+📄 **Medium Article** [https://medium.com/@dilaknagodagamage/i-built-an-ai-that-doesnt-just-track-grades-but-protects-student-mental-health-dd90029469a6](https://medium.com/@dilaknagodagamage/i-built-an-ai-that-doesnt-just-track-grades-but-protects-student-mental-health-dd90029469a6)
+
 ---
 
 ## Project Overview
