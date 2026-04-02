@@ -10,7 +10,8 @@
 > A Streamlit-powered AI application that helps students balance academic performance with mental wellness through personalized insights and predictive analytics.
 
 🔗 **Live Demo:** [https://ai-student-wellness-assistant.streamlit.app/](https://ai-student-wellness-assistant.streamlit.app/)
-( > If the app appears asleep or doesn’t load, please kindly reach out to me via LinkedIn (link in the author details below))
+
+> Notice: If the app appears asleep or doesn’t load, please kindly reach out to me via LinkedIn (link in the author details below)
 
 📂 **GitHub Repo:** [https://github.com/DilaknaH/ai-student-wellness-assistant](https://github.com/DilaknaH/ai-student-wellness-assistant)
 
