@@ -158,7 +158,7 @@ ai-student-wellness-assistant/
 
 ## License
 
-MIT License
+This project is licensed under the [MIT License](https://github.com/DilaknaH/ai-student-wellness-assistant/blob/main/LICENSE)
 
 ---
 
